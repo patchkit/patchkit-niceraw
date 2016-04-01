@@ -1,6 +1,6 @@
 {
   "name": "patchkit-niceraw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nice ways to render \"raw\" data",
   "main": "index.jsx",
   "scripts": {
