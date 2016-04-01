@@ -9,3 +9,9 @@ import * as NiceRaw from 'patchkit-niceraw'
 <NiceRaw.Div obj={foo} />
 <NiceRaw.Json obj={foo} />
 ```
+
+Use the .less file:
+
+```less
+@import "node_modules/patchkit-niceraw/styles.less"
+```
